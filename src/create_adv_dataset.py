@@ -127,7 +127,6 @@ for filetype in input_files:
             for uri in entities_to_substitute:
                 if sub_strategy==1:
                     entity_type = all_entities[uri]['type']
-                    entity_type_label = all_entities[uri]['type-label']
                     possible_types = [t for t in all_types if t != entity_type]
                     random_type_number = np.random.randint(len(possible_types), size=1)[0]
                     list_ents=[x for x in type2ents[possible_types[random_type_number]] if x not in to_avoid]
