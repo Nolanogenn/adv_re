@@ -15,3 +15,6 @@ The script is invoked as follows:
 python create_adv_dataset.py {N} {M}
 ```
 where {N} identifies the substitution strategy implemented (1: same-role, 2: same-type, 3:diff-type, 4:masked), and {M} identifies the entity to substitute (1: subject, 2: object, 3: both).
+
+
+**NB**: this code is not optimized, and should only be used for experimental purposes.
