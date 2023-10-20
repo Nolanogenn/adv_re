@@ -1,4 +1,4 @@
-The create_adv_dataset.py file is used to generated aversarial dataset. To reproduce you need:
+The src/create_adv_dataset.py file is used to generated aversarial dataset. To reproduce you need:
 
 - tacred test file in data/test.json
 - a json file of all the entities together with their types named entities_complete.json
