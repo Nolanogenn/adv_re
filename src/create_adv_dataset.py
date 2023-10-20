@@ -152,7 +152,7 @@ for filetype in input_files:
                         elif ents_role_dict[uri] == 'obj':
                             list_ents=[x for x in rel2ents[relation_uri]['objs'] if x not in to_avoid]
                 elif sub_strategy == 4:
-                    list_ents = ['QBLANK']
+                    list_ents = ['MASK']
 
                 if not to_pass:
                     try:
