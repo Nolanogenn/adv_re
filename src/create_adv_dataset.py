@@ -14,7 +14,6 @@ pattern = r'Q[0-9A-Z]*'
 parser=argparse.ArgumentParser(description='Create a controlled vocabulary for Relation Extraction')
 
 parser.add_argument('sub_strategy', type=int, default=1, help='which strategy to use for the substitution, 1: the new entity will be chosen from the entire set of entities that are of a different type than the original entity, 2:  the new entity will be chosen from those of the same type as the former entity, 3: the new entity will be chosen from those appearing in the same relation, 4: the original entity will be masked')
-#parser.add_argument('selection', type=int, default=1, help='how the entity will be chosen, 1: the new entity will be chosen randomly, 2: the new entity will be the most similar one in term of fastText representation, 3: the new entity will be the least similar one in term of fastText representation.')
 parser.add_argument('ents_to_substitute', default=1, type=int, help='which entity to subsitute, 1: subj, 2: obj, 3: both')
 
 
