@@ -1,3 +1,8 @@
+## Pointing out the Shortcomings of Relation Extraction Models with Semantically Motivated Adversarials
+
+**Read the paper on Arxiv**: https://arxiv.org/abs/2402.19076
+
+
 The src/create_adv_dataset.py file is used to generated aversarial dataset. To reproduce you need:
 
 - tacred test file in data/test.json
@@ -18,3 +23,16 @@ where {N} identifies the substitution strategy implemented (1: same-role, 2: sam
 
 
 **NB**: this code is not optimized, and should only be used for experimental purposes.
+
+## Cite
+
+Please cite [our paper]([https://arxiv.org/abs/1903.02428](https://arxiv.org/abs/2402.19076)) if you use our evaluation dataset in your own work:
+
+```
+@inproceedings{gnolanoadv2024,
+  title={Pointing out the Shortcomings of Relation Extraction Models with Semantically Motivated Adversarials,
+  author={Nolano, Gennaro and Blum, Moritz and Ell, Basil and Cimiano, Philipp},
+  booktitle={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
+  year={2024},
+}
+```
