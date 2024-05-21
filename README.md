@@ -2,6 +2,9 @@
 
 **Read the paper on Arxiv**: https://arxiv.org/abs/2402.19076
 
+**See the poster we presented**: [poster_adversial_re_lrec-coling.pdf](./poster_adversial_re_lrec-coling.pdf) 
+
+
 <img src="figures/adversarials_figure.svg">
 
 
