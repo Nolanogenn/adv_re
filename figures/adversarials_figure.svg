@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2481 1749" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-90.3151,68.1662)">
+        <g transform="matrix(1.49392,0,0,0.731629,-907.656,56.6242)">
+            <rect x="687.31" y="526.715" width="632.484" height="772.763" style="fill:rgb(235,235,235);stroke:black;stroke-width:3.54px;"/>
+        </g>
+        <g transform="matrix(33.7483,0,0,33.7483,-24208.4,-33873.3)">
+            <text x="721.553px" y="1019.85px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:2.222px;">org: Leonardo da Vinci</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-81.9568,-624.612)">
+            <text x="224.87px" y="1271px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:75px;">same role: Michelangelo</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-81.9568,-522.013)">
+            <text x="224.87px" y="1271px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:75px;">same-type: Barack Obama</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-64.269,-84.2106)">
+            <text x="206.926px" y="935.758px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:75px;">dif<tspan x="284.782px 305.619px " y="935.758px 935.758px ">f.</tspan>-type: Stratolaunch</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-66.6494,17.4359)">
+            <text x="206.926px" y="935.758px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:75px;">masking: [mask]</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,1391.59,71.5083)">
+        <g transform="matrix(1.49392,0,0,0.731629,-907.656,56.6242)">
+            <rect x="687.31" y="526.715" width="632.484" height="772.763" style="fill:rgb(235,235,235);stroke:black;stroke-width:3.54px;"/>
+        </g>
+        <g transform="matrix(33.7483,0,0,33.7483,-24208.4,-33873.3)">
+            <text x="721.553px" y="1019.85px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:2.222px;">org: Mona Lisa</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-81.9568,-624.612)">
+            <text x="224.87px" y="1271px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:75px;">same role: Scream</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-81.9568,-522.013)">
+            <text x="224.87px" y="1271px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:75px;">same-type: Balloon Girl</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-64.269,-84.2106)">
+            <text x="206.926px" y="935.758px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:75px;">dif<tspan x="284.782px 305.619px " y="935.758px 935.758px ">f.</tspan>-type: Berlin W<tspan x="815.458px 857.17px " y="935.758px 935.758px ">al</tspan>l</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-66.6494,17.4359)">
+            <text x="206.926px" y="935.758px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:75px;">masking: [mask]</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,530.083,99.8114)">
+        <text x="461.417px" y="718.882px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:100px;">painted the</text>
+    </g>
+    <g transform="matrix(3.92481e-17,-0.582453,1.22346,7.63278e-17,1057.11,1384.6)">
+        <g transform="matrix(1.0711e-16,0.817351,-1.71688,5.50765e-17,2377.19,-864.033)">
+            <path d="M1897.58,437.424L1929.74,483.151L1947.02,429.989L1897.58,437.424Z"/>
+            <path d="M1923.79,443.595C1823.79,111.585 497.413,122.505 499.147,486.493" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+        </g>
+    </g>
+</svg>

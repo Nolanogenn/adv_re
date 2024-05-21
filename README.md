@@ -2,6 +2,10 @@
 
 **Read the paper on Arxiv**: https://arxiv.org/abs/2402.19076
 
+<img src="figures/adversarials_figure.svg">
+
+
+## Dataset
 
 The src/create_adv_dataset.py file is used to generated aversarial dataset. To reproduce you need:
 
