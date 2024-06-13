@@ -2,3 +2,5 @@
 /.ipython
 .idea
 /.ipynb_checkpoints
+/data_viz/aggregated_files
+/data_viz/models
